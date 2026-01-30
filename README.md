@@ -1,2 +1,2 @@
-# personal_site
+# mohammadmahdirezapour
 personal site for Mohammadmahdi Rezapour
